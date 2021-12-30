@@ -11,6 +11,8 @@ rpath = false
 
 [workspace]
 members = [
+    "dpdk-rs",
+    "catnip",
     "catnip-libos",
     "catnap-libos",
 ]
